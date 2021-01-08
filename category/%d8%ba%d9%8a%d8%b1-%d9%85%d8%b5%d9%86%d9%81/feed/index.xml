@@ -9,8 +9,8 @@
 
 <channel>
 	<title>غير مصنف &#8211; المثقف</title>
-	<atom:link href="/category/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D9%86%D9%81/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://https://ahmedmahmed222.github.io/test101/category/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D9%86%D9%81/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://ahmedmahmed222.github.io/test101</link>
 	<description>موقع ووردبريس عربي آخر</description>
 	<lastBuildDate>Fri, 08 Jan 2021 17:57:13 +0000</lastBuildDate>
 	<language>ar</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>أهلاً بالعالم !</title>
-		<link>/1/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
-					<comments>/1/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comments</comments>
+		<link>https://https://ahmedmahmed222.github.io/test101/1/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
+					<comments>https://https://ahmedmahmed222.github.io/test101/1/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 08 Jan 2021 16:09:42 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررّها أو احذفها، ثم ابدأ النشر!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/1/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://ahmedmahmed222.github.io/test101/1/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
